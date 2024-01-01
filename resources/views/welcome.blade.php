@@ -40,7 +40,7 @@
             </a>
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a href="#hero">Home</a></li>
+                    <li><a href="#hero">Dashboard</a></li>
                     <li><a href="#about">About</a></li>
                 </ul>
             </nav><!-- .navbar -->
